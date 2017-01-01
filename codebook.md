@@ -8,12 +8,13 @@ for each test subject based on the activity they were performing.
 * `activity` - One of six activities that were being tracked (originally tagged 1-6)
 
 ## Activity Labels
-* `WALKING (1)`            
+* `WALKING (1)`            -
 * `WALKING_UPSTAIRS (2)`   
 * `WALKING_DOWNSTAIRS (3)` 
 * `SITTING (4)`           
 * `STANDING (5)`          
 * `LAYING (6)`
+
 ## Measurements contained in 'tidy.csv'
  [1] `subject`                             
  [2] `tBodyAcc-mean()-X`                   
