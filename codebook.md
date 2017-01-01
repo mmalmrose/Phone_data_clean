@@ -97,9 +97,9 @@ for each test subject based on the activity they were performing.
 [79] `fBodyBodyGyroJerkMag-std()`          
 [80] `fBodyBodyGyroJerkMag-meanFreq()`     
 [81] `angle(tBodyAccMean,gravity)`         
-[82] `angle(tBodyAccJerkMean),gravityMean)` 
+[82] `angle(tBodyAccJerkMean),gravityMean)`     
 [83] `angle(tBodyGyroMean,gravityMean)`    
-[84] `angle(tBodyGyroJerkMean,gravityMean)` 
+[84] `angle(tBodyGyroJerkMean,gravityMean)`     
 [85] `angle(X,gravityMean)`                
 [86] `angle(Y,gravityMean)`                
 [87] `angle(Z,gravityMean)`                
